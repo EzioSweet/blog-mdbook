@@ -1,0 +1,14 @@
+[book]
+authors = ["EzioSweet"]
+language = "en"
+src = "src"
+title = "星渊小站"
+
+[output.html]
+additional-css = ["theme/pagetoc.css"]
+additional-js  = ["theme/pagetoc.js"]
+theme = "theme"
+
+[preprocessor.katex]
+command = "./mdbook-katex"
+after = ["links"]
