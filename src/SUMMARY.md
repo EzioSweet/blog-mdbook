@@ -3,9 +3,11 @@
 # Linux 相关
 
 
-# 物理相关
+
 
 + [Gentoo In WSL](./linux/Gentoo_in_WSL.md)
+
+# 物理相关
 
 + [固体物理]()
   + [原子的凝聚](./solid_state_physics/chapter_1.md)
